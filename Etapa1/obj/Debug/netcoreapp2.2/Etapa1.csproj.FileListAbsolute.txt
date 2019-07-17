@@ -1,0 +1,11 @@
+D:\Platzi\C#\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.deps.json
+D:\Platzi\C#\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.json
+D:\Platzi\C#\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.runtimeconfig.dev.json
+D:\Platzi\C#\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.dll
+D:\Platzi\C#\Etapa1\bin\Debug\netcoreapp2.2\Etapa1.pdb
+D:\Platzi\C#\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.csprojAssemblyReference.cache
+D:\Platzi\C#\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.csproj.CoreCompileInputs.cache
+D:\Platzi\C#\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfoInputs.cache
+D:\Platzi\C#\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.AssemblyInfo.cs
+D:\Platzi\C#\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.dll
+D:\Platzi\C#\Etapa1\obj\Debug\netcoreapp2.2\Etapa1.pdb
